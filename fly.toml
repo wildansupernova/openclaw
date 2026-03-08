@@ -26,7 +26,7 @@ min_machines_running = 1
 # processes = ["app"]
 
 [[vm]]
-size = "shared-cpu-4x"
+size = "shared-cpu-8x"
 memory = "8gb"
 
 [mounts]
