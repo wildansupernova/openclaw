@@ -27,7 +27,7 @@ processes = ["app"]
 
 [[vm]]
 size = "shared-cpu-4x"
-memory = "4096mb"
+memory = "8gb"
 
 [mounts]
 source = "openclaw_data"
